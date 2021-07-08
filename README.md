@@ -1,11 +1,11 @@
-# Mouse Clicking Game
+# Sign Finder
 
-Click on the circle to get points.
+Type a number to find its sign
 
-- Repository URL : [mouse-clicking-game](https://github.com/SaMaSaLa/mouse-clicking-game)
-- Demo URL : [Demo](https://samasala.github.io/mouse-clicking-game/)
+- Repository URL : [sign-finder](https://github.com/SaMaSaLa/sign-finder)
+- Demo URL : [Demo](https://samasala.github.io/sign-finder/)
 
 Authors:
 
--   [Sai Vanga](https://sai.rocks)
--   [Lasya Vanga](https://lasya.net)
+- [Sai Vanga](https://sai.rocks)
+- [Lasya Vanga](https://lasya.net)
